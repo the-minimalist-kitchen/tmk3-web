@@ -4,4 +4,8 @@
 
 Build a service worker.
 
-Bundle it to `www/sw.js`
+Bundle it to `/sw.js`
+
+## initial
+
+
