@@ -1,0 +1,14 @@
+{
+  "name": "tmk3-web",
+  "version": "0.1.0",
+  "description": "the minimalist kitchen web client",
+  "workspaces": [
+  	"sw",
+  	"initial",
+  ],
+  "author": "taylor vann",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "prettier": "^3.2.4"
+  }
+}

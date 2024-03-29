@@ -1,0 +1,14 @@
+{
+  "name": "sw",
+  "main": "./dist/mod.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --project ./tsconfig.json",
+    "fmt": "prettier ./ --write",
+    "bundle": "rollup --config ./rollup.config.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "typescript": "^5.3.3"
+  }
+}

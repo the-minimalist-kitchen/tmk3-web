@@ -1,0 +1,7 @@
+dist/
+node_modules/
+
+www/*
+!www/manifest.webmanifest
+www/icons/*
+!www/icons/tmk3-icon_128x128.png
