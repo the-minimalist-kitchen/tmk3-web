@@ -1,5 +1,5 @@
 {
-  "name": "initial_payload",
+  "name": "dom_content_loaded",
   "main": "./dist/mod.js",
   "type": "module",
   "scripts": {

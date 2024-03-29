@@ -4,7 +4,7 @@
   "description": "the minimalist kitchen web client",
   "workspaces": [
   	"sw",
-  	"initial",
+  	"dom_content_loaded",
   ],
   "author": "taylor vann",
   "license": "BSD-3-Clause",
