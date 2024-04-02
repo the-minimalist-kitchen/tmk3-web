@@ -3,9 +3,9 @@
   "short_name": "tmk3",
   "description": "the minimalist kitchen web client"
   "display": "standalone",
-  "background_color": "red",
+  "background_color": "#000",
   "icons": [{
-    "src": "icons/icon_128x128",
+    "src": "icons/icon_128x128.png",
     "sizes": "128x128",
     "type": "image/png",
   }]

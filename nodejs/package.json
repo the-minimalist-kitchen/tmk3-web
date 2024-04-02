@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "the minimalist kitchen web client",
   "workspaces": [
-  	"sw",
-  	"initial",
+    "sw",
+    "dom_content_loaded"
   ],
   "author": "taylor vann",
   "license": "BSD-3-Clause",
